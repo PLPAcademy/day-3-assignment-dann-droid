@@ -1,0 +1,21 @@
+Danson Ngenya Assignment W3
+
+Dart/Flutter Installation
+1. B
+2. D
+3. B
+4. C
+
+PYTHON INSTALLATION
+1. B
+2. D
+3. A
+4. A
+5. D
+
+MySQL 
+1. C
+2. D
+3. A
+4. A
+5. B  
